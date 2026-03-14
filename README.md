@@ -20,7 +20,7 @@ ProjectSettings → configurações da Unity
 
 Objetivo do projeto
 
-Este projeto foi desenvolvido como estudo prático de desenvolvimento de jogos e implementação de mecânicas básicas dentro da Unity sempre se divertindo com a programação.
+Este projeto foi desenvolvido como estudo prático de desenvolvimento de jogos e implementação de mecânicas básicas dentro da Unity sempre se divertindo com a programação, com tiles e sprites totalmente autorais.
 
 ## Gameplay
 
