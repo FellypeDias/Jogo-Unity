@@ -24,4 +24,4 @@ Este projeto foi desenvolvido como estudo prático de desenvolvimento de jogos e
 
 ## Gameplay
 
-![Gameplay](images/gameplay.png)
+![Gameplay](images/gameplay.gif)
